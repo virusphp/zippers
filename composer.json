@@ -11,14 +11,6 @@
   "license": "Apache2",
   "authors": [
     {
-      "name": "Nils Plaschke",
-      "email": "github@nilsplaschke.de",
-      "homepage": "http://nilsplaschke.de",
-      "role": "Developer"
-    }
-  ],
-  "modifiers": [
-    {
       "name": "Sugandi",
       "email": "github@setsuga.io",
       "homepage": "http://megonodev.com",
