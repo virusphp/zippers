@@ -8,7 +8,7 @@
     "Archive"
   ],
   "homepage": "http://github.com/virusphp/zipper",
-  "license": "Apache2",
+  "license": "MIT",
   "authors": [
     {
       "name": "Sugandi",
